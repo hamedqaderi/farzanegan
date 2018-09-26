@@ -1,0 +1,17 @@
+{
+    "name": "hamed/farzanegan",
+    "authors": [
+        {
+            "name": "Hamed Qaderi",
+            "email": "hamedghaderii@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Farzanegan\\": "core/",
+            "Blog\\": ""
+        }
+    }
+}
